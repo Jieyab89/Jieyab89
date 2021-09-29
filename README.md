@@ -1,10 +1,7 @@
-## Welcome!
-
-[![Github Badge](https://img.shields.io/badge/-Jieyab89-black?style=flat&logo=github&logoColor=white&link=https://github.com/Jieyab89/)](https://github.com/Jieyab89)
-<br>
+## Welcome! to [![Github Badge](https://img.shields.io/badge/-Jieyab89-black?style=flat&logo=github&logoColor=white&link=https://github.com/Jieyab89/)](https://github.com/Jieyab89)
 
 <h2>Little Boy Learner</h2>
-<p align='left'>Who am I? Hello, just call me Suyab. I am a student at this time I am still learning, I like computers especially in network security and operating systems security. I can code but still learning. Nice to meet you 😬</p>
+<p align='left'>Who am I? Hello, just call me Suyab. I am a student at this time I am still learning, I like computer especially in network security and operating systems security and OSINT. I can code but still learning XD. Nice to meet you 😬</p>
 
 ## My Profile
 ![HTML](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=HTML5)&nbsp;
