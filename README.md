@@ -19,10 +19,14 @@
 * Networking
 * Content writer
 * Operating system
+* Web admin 
+* Windows maintence
+* Leader development team
 
 <p align='left'>My project : </p>
 
 * Web app 
+* Mikrotik
 * IoT mini cloud storage
 * IoT mini smarthome
 
