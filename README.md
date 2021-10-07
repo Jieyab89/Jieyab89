@@ -30,5 +30,5 @@ Anything
 
 ## My Github Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Jieyab89&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats)](https://github.com/Jieyab89)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jieyab89&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe)](https://github.com/Jieyab89)
+![Jieyab's github stats](https://github-readme-stats.vercel.app/api?username=Jieyab89)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jieyab89)](https://github.com/Jieyab89/)
