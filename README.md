@@ -31,4 +31,5 @@ Anything
 ## My Github Stats
 
 ![Jieyab's github stats](https://github-readme-stats.vercel.app/api?username=Jieyab89)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jieyab89)](https://github.com/Jieyab89/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jieyab89&layout=compact)](https://github.com/Jieyab89/)
+
