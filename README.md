@@ -44,6 +44,9 @@ Thank you 🤙
 * Mikrotik
 * IoT mini cloud storage
 * IoT mini smarthome
+* Lolicon Algorithm
+* Mail template engine 
+* Lolicon OTP 
 
 Anything
 
