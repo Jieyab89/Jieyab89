@@ -8,6 +8,7 @@
 * <a href="https://forum.seccodeid.com">Seccodeid forum platform</a>
 * <a href="https://seccodeid.com/#event">Seccodeid events</a>
 * <a href="https://blog.seccodeid.com/">Seccodeid blogs</a>
+* <a href="https://en-blog.seccodeid.com/">Seccodeid english blogs</a>
 * <a href="https://t.me/seccodeid">Seccodeid telegram</a>
 
 
