@@ -53,6 +53,6 @@ Anything
 
 ## My Github Stats
 
-![Jieyab's github stats](https://github-readme-stats.vercel.app/api?username=Jieyab89)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jieyab89&layout=compact)](https://github.com/Jieyab89/)
+![Jieyab's github stats](https://github-readme-stats.vercel.app/api?username=Jieyab89&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jieyab89&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Jieyab89/)
 
