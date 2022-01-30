@@ -12,10 +12,9 @@
 * <a href="https://t.me/seccodeid">Seccodeid telegram</a>
 
 
-<p align='left'>Donate? Chat? Or anything. You can chat me on Telegram (Indonesian & English) </p>
+<p align='left'>Chat? Or anything. You can chat me on Telegram (Indonesian & English) </p>
 
-* <a href="https://t.me/bayjie">Hire me </a>
-* <a href="https://t.me/bayjie">Donate </a>
+* <a href="https://t.me/bayjie">Telegram</a>
 
 Thank you 🤙
 
