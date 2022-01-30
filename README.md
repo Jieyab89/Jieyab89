@@ -32,17 +32,17 @@ Thank you 🤙
 <p align='left'>My experience : </p>
 
 * Coding 
-* Networking
-* Content writer
-* Operating system
+* OSINT
 * Web admin 
+* Content writer
+* Networking
+* Operating system
 * Windows maintence
 * Leader development team
 
 <p align='left'>My project : </p>
 
 * Web app 
-* Mikrotik
 * IoT mini cloud storage
 * IoT mini smarthome
 * Lolicon Algorithm
