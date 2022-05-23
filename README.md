@@ -52,6 +52,9 @@ Anything
 
 ## My Github Stats
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jieyab89)](https://github.com/Jieyab89)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jieyab89&) 
+
 ![Jieyab's github stats](https://github-readme-stats.vercel.app/api?username=Jieyab89&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jieyab89&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Jieyab89/)
 
