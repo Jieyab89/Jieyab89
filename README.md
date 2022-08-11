@@ -49,6 +49,8 @@ Thank you 🤙
 * Operating system
 * Windows maintence
 * Leader development team
+* Hack the box CTF
+* Hackerrank competitive programming
 
 <p align='left'>My project : </p>
 
