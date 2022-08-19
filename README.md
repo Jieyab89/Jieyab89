@@ -1,7 +1,7 @@
 ## Welcome! to [![Github Badge](https://img.shields.io/badge/-Jieyab89-black?style=flat&logo=github&logoColor=white&link=https://github.com/Jieyab89/)](https://github.com/Jieyab89)
 
 <h2>Little Boy Learner</h2>
-<p align='left'>Who am I? Hello, just call me Suyab. I am a student at this time I am still learning, I like computer especially in network security and operating systems security and OSINT. I can code but still learning XD. Nice to meet you 😬</p>
+<p align='left'>Who am I? Hello, just call me Suyab. I am a student and freelancer at this time I am still learning, I like computer especially in network security and operating systems security, IoT and OSINT. I can code but still learning XD. Nice to meet you 😬</p>
 
 <p align='left'>Support me </p>
 
@@ -13,9 +13,8 @@
 * <a href="https://t.me/seccodeid">Seccodeid telegram</a>
 
 
-<p align='left'>Chat? Or anything. You can chat me on Telegram (Indonesian & English) </p>
+<p align='left'>Chat? Or anything. You can chat me on email (Indonesian & English) </p>
 
-* <a href="https://t.me/bayjie">Telegram</a>
 * <a href="https://keys.openpgp.org/search?q=DA301A501A8C7A7E67CEDF699F31C03645ADAB64">GPG</a>
 
 Thank you 🤙
@@ -35,7 +34,7 @@ Thank you 🤙
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)&nbsp;
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminalt-%234D4D4D.svg?flat&logo=windows-terminal&logoColor=white)&nbsp;
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?flat&logo=windows-terminal&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=lat&logo=git&logoColor=white)&nbsp;
 
 <p align='left'>My experience : </p>
@@ -44,6 +43,7 @@ Thank you 🤙
 * Coding 
 * OSINT
 * Web admin 
+* Web developer
 * Content writer
 * Networking
 * Operating system
@@ -61,6 +61,7 @@ Thank you 🤙
 * Mail template engine 
 * Lolicon OTP 
 * Logen (Web monitoring)
+* OSINT handbook 2022 
 
 Anything
 
