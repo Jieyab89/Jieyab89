@@ -7,10 +7,10 @@
 
 * <a href="https://seccodeid.com">Seccodeid Forum</a>
 * <a href="https://forum.seccodeid.com">Forum Seccodeid</a>
-* <a href="https://seccodeid.com/#event">Seccodeid events</a>
-* <a href="https://blog.seccodeid.com/">Seccodeid blogs</a>
-* <a href="https://en-blog.seccodeid.com/">Seccodeid english blogs</a>
-* <a href="https://t.me/seccodeid">Seccodeid telegram</a>
+* <a href="https://seccodeid.com/#event">Seccodeid Events</a>
+* <a href="https://blog.seccodeid.com/">Seccodeid Blogs</a>
+* <a href="https://en-blog.seccodeid.com/">Seccodeid English Blogs</a>
+* <a href="https://t.me/seccodeid">Seccodeid Telegram</a>
 
 
 <p align='left'>Chat? Or anything. You can chat me on email (Indonesian & English) </p>
