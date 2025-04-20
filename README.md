@@ -39,7 +39,8 @@ Thank you 🤙
 
 <p align='left'>My experience : </p>
 
-* Drummer 
+* Drummer Personnel
+* Disc Jockey
 * Coding 
 * OSINT
 * Web admin 
