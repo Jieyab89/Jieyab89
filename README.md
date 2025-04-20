@@ -63,7 +63,7 @@ Thank you 🤙
 * Logen (Web monitoring)
 * OSINT handbook 2022 
 
-Anything
+Anything. DM me for more information about my project and my resume (Interviewer)
 
 ## My Github Stats
 
