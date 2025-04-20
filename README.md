@@ -3,6 +3,11 @@
 <h2>Little Boy Learner</h2>
 <p align='left'>Who am I? Hello, just call me Suyab. I am a student and freelancer at this time I am still learning, I like computer especially in network security and operating systems security, IoT and OSINT. I can code but still learning XD, heyyy.... if there is a wrong on my code are bad (sh*t) please tell me. Nice to meet you 😬</p>
 
+>
+> Let's exploring the world and planet, from generous become villain
+>
+> Jieyab89 
+
 <p align='left'>Support me </p>
 
 * <a href="https://seccodeid.com">Seccodeid Forum</a>
