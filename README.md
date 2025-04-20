@@ -57,6 +57,7 @@ Thank you 🤙
 * Leader development team
 * Hack the box CTF
 * Hackerrank competitive programming
+* IT Security Consultant - mostly red teaming
 
 <p align='left'>My project : </p>
 
