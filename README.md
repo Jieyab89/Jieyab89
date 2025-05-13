@@ -1,10 +1,10 @@
-## Welcome! to [![Github Badge](https://img.shields.io/badge/-Jieyab89-black?style=flat&logo=github&logoColor=white&link=https://github.com/Jieyab89/)](https://github.com/Jieyab89) (Doge from atmosphere)
+## Welcome! to [![Github Badge](https://img.shields.io/badge/-Jieyab89-black?style=flat&logo=github&logoColor=white&link=https://github.com/Jieyab89/)](https://github.com/Jieyab89) (Doge from Andromeda)
 
 <h2>Little Boy Learner</h2>
 <p align='left'>Who am I? Hello, just call me Suyab. I am a student and freelancer at this time I am still learning, I like computer especially in network security and operating systems security, IoT and OSINT. I can code but still learning XD, heyyy.... if there is a wrong on my code are bad (sh*t) please tell me. Nice to meet you 😬</p>
 
 >
-> Let's exploring the world and planet, from generous become villain
+> Let's exploring the world and planet. From galaxy to planet, from generous become villain
 >
 > Jieyab89 
 
@@ -67,7 +67,7 @@ Thank you 🤙
 * Lolicon Algorithm
 * Mail template engine 
 * Lolicon OTP 
-* Logen (Web monitoring)
+* Logen Int (Web monitoring)
 * OSINT handbook 2022 
 
 Anything. DM me for more information about my project and my resume (Interviewer)
