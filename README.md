@@ -16,7 +16,7 @@
 * <a href="https://blog.seccodeid.com/">Seccodeid Blogs</a>
 * <a href="https://en-blog.seccodeid.com/">Seccodeid English Blogs</a>
 * <a href="https://t.me/seccodeid">Seccodeid Telegram</a>
-
+* <a href="https://github.com/Jieyab89?tab=repositories">Enable Notification and Star My Repo XD</a>
 
 <p align='left'>Chat? Or anything. You can chat me on email (Indonesian & English) </p>
 
@@ -58,7 +58,8 @@ Thank you 🤙
 * Hack the box CTF
 * Hackerrank competitive programming
 * IT Security Consultant - mostly red teaming
-
+* Skateboarder
+  
 <p align='left'>My project : </p>
 
 * Web app 
@@ -68,7 +69,7 @@ Thank you 🤙
 * Mail template engine 
 * Lolicon OTP 
 * Logen Int (Web monitoring)
-* OSINT handbook 2022 
+* OSINT handbook 2022
 
 Anything. DM me for more information about my project and my resume (Interviewer)
 
