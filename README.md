@@ -1,7 +1,7 @@
 ## Welcome! to [![Github Badge](https://img.shields.io/badge/-Jieyab89-black?style=flat&logo=github&logoColor=white&link=https://github.com/Jieyab89/)](https://github.com/Jieyab89) (Doge from Andromeda)
 
 <h2>Little Boy Learner</h2>
-<p align='left'>Who am I? Hello, just call me Suyab. I like a music mostly rocker and trance, love dog's and cat's or something cute animal, i am a student and freelancer at this time I am still learning, I like computer especially in network security and operating systems security, IoT and OSINT. I can code but still learning XD, heyyy.... if there is a wrong on my code are bad (sh*t) please tell me. Nice to meet you 😬</p>
+<p align='left'>Who am I? Hello, just call me Suyab. I like a music mostly rocker and trance also DJ, love dog's and cat's or something cute animal, i am a IT Security Consultant and freelancer, at this time I am still learning, I like computer especially in network security and operating systems security, IoT and OSINT. I can code but still learning XD, heyyy.... if there is a wrong on my code are bad (sh*t) please tell me. Nice to meet you 😬</p>
 
 >
 > Let's exploring the world and planet. From galaxy to planet, from generous become villain
@@ -45,31 +45,34 @@ Thank you 🤙
 <p align='left'>My experience : </p>
 
 * Drummer Personnel
-* Disc Jockey
-* Coding 
+* Disc Jockey Mostly Trance and Progressive House 
+* Coding Mostly Web Application and Scripting 
 * OSINT
-* Web admin 
-* Web developer
-* Content writer
+* Web Admin 
+* Web Developer
+* Content Writer
 * Networking
-* Operating system
-* Windows maintence
-* Leader development team
-* Hack the box CTF
-* Hackerrank competitive programming
-* IT Security Consultant - mostly red teaming
+* Operating System
+* Windows Maintener (IT Support)
+* Leader Development Team
+* Hack the Box CTF
+* Hackerrank Competitive Programming
+* IT Security Consultant - Mostly Red Teaming
 * Skateboarder
+* Airsofter and Shooter 
+* Public Speaker and Private Trainer Mostly OSINT and IT Security for Red Teaming Attack 
   
 <p align='left'>My project : </p>
 
-* Web app 
-* IoT mini cloud storage
-* IoT mini smarthome
+* Web App 
+* IoT Mini Cloud Storage
+* IoT Mini Smarthome
 * Lolicon Algorithm
-* Mail template engine 
+* Mail Template Engine 
 * Lolicon OTP 
-* Logen Int (Web monitoring)
+* Logen Int (Web Monitoring) 
 * OSINT handbook 2022
+* Logen Int C2 Server and Malware Surveillance
 
 Anything. DM me for more information about my project and my resume (Interviewer)
 
