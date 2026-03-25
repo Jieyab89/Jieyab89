@@ -71,7 +71,7 @@ Thank You 🤙
 * Mail Template Engine 
 * Lolicon OTP 
 * Logen Int (Web Monitoring) 
-* OSINT handbook 2022
+* OSINT Handbook 2022
 * Logen Int C2 Server and Malware Surveillance
 * Logen Int Scrapper 
 
