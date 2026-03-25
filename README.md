@@ -8,7 +8,7 @@
 >
 > Jieyab89 
 
-<p align='left'>Support me </p>
+<p align='left'>Support Me </p>
 
 * <a href="https://seccodeid.com">Seccodeid Forum</a>
 * <a href="https://forum.seccodeid.com">Forum Seccodeid</a>
@@ -22,7 +22,7 @@
 
 * <a href="https://keys.openpgp.org/search?q=DA301A501A8C7A7E67CEDF699F31C03645ADAB64">GPG</a>
 
-Thank you 🤙
+Thank You 🤙
 
 ## My Profile
 ![HTML](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=HTML5)&nbsp;
@@ -42,7 +42,7 @@ Thank you 🤙
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?flat&logo=windows-terminal&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=lat&logo=git&logoColor=white)&nbsp;
 
-<p align='left'>My experience : </p>
+<p align='left'>My Experience: </p>
 
 * Drummer Personnel
 * Disc Jockey Mostly Trance and Progressive House 
@@ -62,7 +62,7 @@ Thank you 🤙
 * Airsofter and Shooter 
 * Public Speaker and Private Trainer Mostly OSINT and IT Security for Red Teaming Attack 
   
-<p align='left'>My project : </p>
+<p align='left'>My Project: </p>
 
 * Web App 
 * IoT Mini Cloud Storage
@@ -73,6 +73,7 @@ Thank you 🤙
 * Logen Int (Web Monitoring) 
 * OSINT handbook 2022
 * Logen Int C2 Server and Malware Surveillance
+* Logen Int Scrapper 
 
 Anything. DM me for more information about my project and my resume (Interviewer)
 
