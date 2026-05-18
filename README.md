@@ -3,6 +3,8 @@
 <h2>Little Boy Learner</h2>
 <p align='left'>Who am I? Hello, just call me Suyab. I like a music mostly rocker and trance also DJ, love dog's and cat's or something cute animal, at this time I am still learning, I like computer especially in network security and operating systems security, IoT and OSINT. I can code but still learning XD, heyyy.... if there is a wrong on my code are bad (sh*t) please tell me. Just a little boy focused in IT enthusiast and intelligence for military and journalists or documentaries, here my porto like Scripting, IT Security and Open Source Enthusiast, currently I am working as an IT security consultant such as red team (3,2 Years), KIOSK pentesting (thick client), Web Pentesting, API Pentesting, Mobile Pentesting (newbie), also Infra. Deepfake Pentesting (liveness and biometric) and as a Web Developer for several years also Trainer at Private Sector then Public Sector like online presenter at webinars and seminars. I have been working as a freelancer as well as working in the bank industry and love intelligence. Nice to meet you 😬</p>
 
+Keep a notes I’m not asking for donations—your money isn’t not priority. My priority is education and sharing information, though not in an overt way. Simply giving me a star, forking, contributing, reading the articles, and sharing them in my repository is more than enough—I’m asking for the community’s support and yours. If you have any questions, you can contact me via LinkedIn or email; please ask politely and use respectful language—I’m accustomed to using English  
+
 >
 > Let's exploring the world and planet. From galaxy to planet, from generous become villain
 >
